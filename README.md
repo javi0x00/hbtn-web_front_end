@@ -1,8 +1,6 @@
 # Specializations
 ## holbertonschool-web_front_end
-### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-
-## Projects
+### Projects
 :open_file_folder:
 * [x] 582 0x00. Advanced HTML
 * [x] 590 0x01. Developer tools
@@ -18,6 +16,6 @@
 * [x] 626 0x0D. JQuery advanced
 * [x] 627 0x0E. Cookies & local storage
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

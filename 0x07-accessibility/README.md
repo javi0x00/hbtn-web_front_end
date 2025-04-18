@@ -103,6 +103,6 @@ A ```README.md``` file.
 * [x] 10. Document must have one main landmark
 * [x] 11. More than 2 elements become list
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

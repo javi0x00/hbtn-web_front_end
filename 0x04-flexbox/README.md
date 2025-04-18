@@ -52,9 +52,6 @@ A ```README.md``` file.
 * [x] 15. Finalizing the cherry on the cake that is the article
 * [x] 16. Timemachine boxes!
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:link: [Twitter](https://twitter.com/javierandresgp0)  
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

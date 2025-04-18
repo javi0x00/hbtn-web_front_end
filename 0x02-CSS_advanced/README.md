@@ -138,9 +138,6 @@ Your code should be W3C compliant and validate with W3C-Validator
 * [x] 31. Add quotes decoration on testimonials
 * [x] 32. Incorporating transitions
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:link: [Twitter](https://twitter.com/javierandresgp0)  
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).

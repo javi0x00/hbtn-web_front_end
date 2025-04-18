@@ -67,9 +67,6 @@ A ```README.md``` file at the root of the folder of the project is mandatory
 * [x] 33. Security
 * [x] 34. Expiration date
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)  
-:link: [Linkedin](https://www.linkedin.com/in/javierandresgp/)  
-:link: [Twitter](https://twitter.com/javierandresgp0)  
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
